@@ -3,4 +3,40 @@
 }
 h2{
     color: #c44b4b;
+    font-family: 'Courier New', Courier, monospace;
+    font-alinent: center;
 }
+body{
+    background-color: skyblue;
+ width: 50%;
+ margin;36px auto;
+ padding: 20px;
+ display: inline-flexbox;
+ display:50%;
+
+}
+.h8{
+    text-align: center;
+    color: #380af0;;
+   
+
+}
+.h9{
+    width: 400px;
+    height: 400px;
+    padding: 10PX;
+    margin: 0cap;
+    background-color: #c2c0e7;
+    box-shadow: #c44b4b 10px 10px 20px;
+    text-align: center;
+    
+    
+    
+    
+}
+#u1{
+   color:#380af0;
+}
+
+
+
